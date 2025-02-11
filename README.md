@@ -30,3 +30,5 @@ I maintain these open-source projects:
 Reach me on [LinkedIn]
 
 [LinkedIn]: https://github.com/Lementknight
+
+Shoutout to [@mct.visual](https://www.instagram.com/mct.visual?igsh=MTJsZzhzcTloeXQydA==) 📷
