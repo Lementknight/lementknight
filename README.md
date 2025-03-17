@@ -31,4 +31,4 @@ Reach me on [LinkedIn]
 
 [LinkedIn]: https://github.com/Lementknight
 
-Shoutout to [@mct.visual](https://www.instagram.com/mct.visual?igsh=MTJsZzhzcTloeXQydA==) 📷
+Shoutout to [@mct.visual](https://www.instagram.com/mct.visual?igsh=MTJsZzhzcTloeXQydA==) 📷 for profile pic 
