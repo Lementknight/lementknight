@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Caleb Aguirre-Leon
 
 <!-- ## Writing -->
-My name is Caleb Aguirre-Leon and I am a site-reliability engineer who is passionate about building scalable and reliable systems. I have a strong background in cloud infrastructure, automation, and monitoring, and I enjoy working with teams to improve the reliability and performance of their applications.
+I am a site-reliability engineer who is passionate about building scalable and reliable systems. I have a strong background in cloud infrastructure, automation, and monitoring, and I enjoy working with teams to improve the reliability and performance of their applications.
 
 Currently, I am serving as a project manager for my college hackathon organization's, [InnovateOrange](https://cuseactivities.syr.edu/organization/innovate-orange), project [BugBot](https://github.com/innovateorange/DiscordBot) where we are building a Discord bot that will help Syracuse University students with their career devolvement by providing them with resources and information about job opportunities, internships, and career events. I built the CI/CD pipeline for the project using GitHub Actions, ensuring that our code is tested and deployed efficiently on Google Cloud Platform. I also serve as a primary code reviewer for this project.
 
