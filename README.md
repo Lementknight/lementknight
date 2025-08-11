@@ -30,7 +30,7 @@ I'm a Computer Science student at Syracuse University (graduating December 2025)
 
 **Languages:** Python, Go, Java, C, JavaScript, HTML, CSS, LaTeX, Markdown
 
-**Technologies & Tools:** Google Cloud Platform, Docker, Kubernetes, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana
+**Technologies & Tools:** Google Cloud Platform, Docker, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana
 
 **Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Full-Stack Development, Team Leadership
 
