@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a Computer Science student at Syracuse University (graduating December 2025) with hands-on experience in Site Reliability Engineering, software development, and quantum computing. I'm passionate about building scalable systems and contributing to open-source projects.
+I am a site reliability engineer who strives to make systems that are reliable, maintainable, and scalable. I love being able to tackle problems that are daunting where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
 
-**Currently:** Project Manager at Innovate Orange, leading a team of developers building production-ready Discord bots with Python, Discord.py, and Google Cloud Platform infrastructure.
+**Recently:** Project Manager at Innovate Orange, leading a team of developers building production-ready Discord bots with Python, Discord.py, and Google Cloud Platform infrastructure. Conducting comprehensive PR reviews and providing mentorship to team members, resulting in 100% improvement in code quality and 80% increase in on-time deliveries.
 
 **Previously:** Site Reliability Engineering Intern at **Google**, where I improved Monarch monitoring system release velocity through implementing granular software release freeze controls for Google's planet-scale infrastructure. I also developed automated configuration generation tooling in Go and Bazel, reducing manual overhead.
 
@@ -28,11 +28,11 @@ I'm a Computer Science student at Syracuse University (graduating December 2025)
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Go, Java, C, JavaScript, HTML, CSS, LaTeX, Markdown
+**Languages:** Python, Go, LaTeX, Markdown, Java, C, HTML, CSS, JavaScript
 
 **Technologies & Tools:** Google Cloud Platform, Docker, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana
 
-**Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Full-Stack Development, Team Leadership
+**Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Backend-Development, Team Leadership
 
 
 ## 🚀 Featured Projects
@@ -42,6 +42,7 @@ Here are some projects I'm particularly proud of:
 ### [MissionBlueAPI](https://github.com/Team-Mission-Blue/MissionBlueAPI)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Team-Mission-Blue/MissionBlueAPI?logo=github&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white)
 
 A Python tool that fetches data from the BlueSky social platform using the BlueSky Atproto API and saves results into CSV files for further analysis or archival. Features comprehensive CLI interface with advanced search capabilities and data filtering options.
 
@@ -82,13 +83,16 @@ Contributions to IBM's Qiskit benchmarking suite for quantum circuit performance
 ## 🏆 Leadership & Achievements
 
 **President** - Syracuse University Dean's Advisory Panel (2024-2025)
+
 - Lead student advocacy initiatives and facilitate communication between students and engineering faculty
 
 **Co-Sponsorship Chair** - CuseHacks/Innovate Orange (2023-2025)  
+
 - Secured funding for bi-annual hackathons and tech workshops
 - Coordinate with corporate partners and manage event logistics
 
 **Event Lead** - Orange After Dark (2024-2025)
+
 - Organize large-scale campus programming events for 200+ students
 
 ## 📫 Let's Connect!
