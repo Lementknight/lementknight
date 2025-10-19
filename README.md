@@ -61,6 +61,7 @@ Production-ready Discord bot with automated welcome messages, command handling, 
 ### [Personal Portfolio Website](https://github.com/lementknight/blog)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lementknight/blog?logo=github&style=flat-square)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcalebaguirreleon.com&style=flat-square)
 
@@ -68,7 +69,7 @@ Personal blog and portfolio built with Hugo static site generator, featuring cus
 
 **Key Features:** Static site generation, automated deployment, custom styling, performance optimization
 
-**Tech Stack:** Hugo v0.148.2, PaperMod theme with custom CSS extensions, GitHub Pages hosting, automated builds via Google Firebase
+**Tech Stack:** Hugo v0.148.2, PaperMod theme with custom CSS extensions, Google Firebase hosting, automated builds via Google Firebase
 
 ### [Quantum Circuit Benchmarking Tools](https://github.com/Qiskit/benchpress)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Qiskit/benchpress?logo=github&style=flat-square)
@@ -84,16 +85,17 @@ Contributions to IBM's Qiskit benchmarking suite for quantum circuit performance
 
 **President** - Syracuse University Dean's Advisory Panel (2024-2025)
 
-- Lead student advocacy initiatives and facilitate communication between students and engineering faculty
+- Led 9-member panel, managing 3 committees and executing weekly community outreach events, resulting in 40\% increase in student engagement and implementation of 5 new initiatives to enhance engineering student experience.
+- Gathered and presented student body concerns to the Dean of Engineering monthly, leading to the implementation of 2 new policies and 5 improvements in student organization resources, benefiting 90\% of engineering students.
 
 **Co-Sponsorship Chair** - CuseHacks/Innovate Orange (2023-2025)  
 
-- Secured funding for bi-annual hackathons and tech workshops
-- Coordinate with corporate partners and manage event logistics
+- Spearheaded fundraising efforts for CuseHacks' bi-annual hackathon, securing \$7,500 through targeted corporate outreach and leveraging Notion to streamline agreement processes and deadline management.
+- Led weekly planning meetings with 20 e-board members, overseeing logistics for bi-annual hackathons and weekly workshops, resulting in 80\% increase in event attendance and 75\% improvement in participant satisfaction scores.
 
 **Event Lead** - Orange After Dark (2024-2025)
 
-- Organize large-scale campus programming events for 200+ students
+- Led late-night programming events averaging 200+ attendees, improving student satisfaction by 30\% through strategic planning and effective resource management, resulting in 25\% increase in repeat attendance and led weekly meetings with 12 staff members, improving event preparation efficiency by 80\%.
 
 ## 📫 Let's Connect!
 
