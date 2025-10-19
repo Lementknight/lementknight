@@ -32,7 +32,7 @@ I am a site reliability engineer who strives to make systems that are reliable, 
 
 **Technologies & Tools:** Google Cloud Platform, Docker, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana
 
-**Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Backend-Development, Team Leadership
+**Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Backend Development, Team Leadership
 
 
 ## 🚀 Featured Projects
