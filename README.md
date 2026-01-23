@@ -14,7 +14,7 @@ I am a NYC-based site reliability engineer with production-level experience supp
 
 **Languages:** Python, Go, LaTeX, Markdown, Java, C, HTML, CSS, JavaScript
 
-**Technologies & Tools:** Google Cloud Platform, Docker, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana
+**Technologies & Tools:** Google Cloud Platform, Docker, GitHub Actions, Bazel, Git, Hugo, Flask, Jinja, MySQL, Nginx, Prometheus, Grafana, Cloudflare DNS
 
 **Areas of Expertise:** Site Reliability Engineering, DevOps, Quantum Computing, Backend Development, Team Leadership
 
@@ -47,6 +47,7 @@ Production-ready Discord bot with automated welcome messages, command handling, 
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcalebaguirreleon.com&style=flat-square)
 
 Personal blog and portfolio built with Hugo static site generator, featuring custom CSS optimizations, automated deployments, and responsive design. Live at [calebaguirreleon.com](https://calebaguirreleon.com)
