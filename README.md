@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a NYC-based site reliability engineer with production-level experience supporting enterprise clients including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love being able to tackle problems that are daunting where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
+I am a NYC-based site reliability engineer with production-level experience supporting enterprise clients, including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love being able to tackle daunting problems, where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
 
 **Recently:** Project Manager at Innovate Orange, leading a team of developers building production-ready Discord bots with Python, Discord.py, and Google Cloud Platform infrastructure. Conducting comprehensive PR reviews and providing mentorship to team members, resulting in 100% improvement in code quality and 80% increase in on-time deliveries.
 
-**Previously:** Site Reliability Engineering Intern at **Google**, where I improved Monarch monitoring system release velocity through implementing granular software release freeze controls for Google's planet-scale infrastructure. I also developed automated configuration generation tooling in Go and Bazel, reducing manual overhead.
+**Previously:** Site Reliability Engineering Intern at **Google**, where I improved Monarch monitoring system release velocity through implementing granular software release freeze controls for Google's planet-scale infrastructure. I also developed an automated configuration generation tool in Go and Bazel, reducing manual overhead.
 
 **Open Source Experience:** Production Engineering Fellow at **Meta/MLH Fellowship** and Quantum Software Intern at **IBM Quantum**, contributing to Qiskit's benchmarking suite and building Flask-based applications with comprehensive CI/CD pipelines.
 
@@ -28,7 +28,7 @@ Here are some projects I'm particularly proud of:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white)
 
-A Python tool that fetches data from the BlueSky social platform using the BlueSky Atproto API and saves results into CSV files for further analysis or archival. Features comprehensive CLI interface with advanced search capabilities and data filtering options.
+A Python tool that fetches data from the BlueSky social platform using the BlueSky Atproto API and saves results into CSV files for further analysis or archival. Features a comprehensive CLI interface with advanced search capabilities and data filtering options.
 
 **Key Features:** BlueSky API integration, advanced search parameters, CSV data export, sentiment analysis capabilities, automated data mining
 
@@ -102,8 +102,6 @@ When I'm not coding, I write and record my own music! You can find my tracks on 
 ---
 
 <div align="center">
-
-*"Building reliable systems and contributing to the future of technology, one commit at a time."*
 
 
 📷 Special thanks to [@mct.visual](https://www.instagram.com/mct.visual?igsh=MTJsZzhzcTloeXQydA==) for the amazing photography!
