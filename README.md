@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a NYC-based site reliability engineer with production-level experience supporting enterprise clients, including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love being able to tackle daunting problems, where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
+I am a NYC-based data engineer with production-level experience supporting enterprise clients, including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love tackling daunting problems, where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
 
 **Recently:** Project Manager at Innovate Orange, leading a team of developers building production-ready Discord bots with Python, Discord.py, and Google Cloud Platform infrastructure. Conducting comprehensive PR reviews and providing mentorship to team members, resulting in 100% improvement in code quality and 80% increase in on-time deliveries.
 
