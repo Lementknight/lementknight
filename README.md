@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a NYC-based data engineer with production-level experience supporting enterprise clients, including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love tackling daunting problems, where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
+I am a NYC-based data engineer @ Attention Arc with production-level experience supporting enterprise clients, including Google and IBM. I strive to make systems that are reliable, maintainable, and scalable. I love tackling daunting problems, where solutions feel unfeasible. I attribute my ability to problem solve to my background in education, computer science, mathematics, and engineering.
 
 **Recently:** Project Manager at Innovate Orange, leading a team of developers building production-ready Discord bots with Python, Discord.py, and Google Cloud Platform infrastructure. Conducting comprehensive PR reviews and providing mentorship to team members, resulting in 100% improvement in code quality and 80% increase in on-time deliveries.
 
@@ -92,11 +92,9 @@ Contributions to IBM's Qiskit benchmarking suite for quantum circuit performance
 
 </div>
 
-## 🎵 Fun Fact
+## 📸 Fun Fact
 
-When I'm not coding, I write and record my own music! You can find my tracks on all major streaming platforms. Music and code both require creativity, precision, and a lot of debugging! 🎸
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0Yp9pw7RNhxOuKz5l1dPXQ)
+I enjoy photography and hiking!
 
 ---
 
