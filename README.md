@@ -66,22 +66,6 @@ Contributions to IBM's Qiskit benchmarking suite for quantum circuit performance
 **Key Features:** Quantum algorithm benchmarking, command-line interface, performance analysis
 
 
-## 🏆 Leadership & Achievements
-
-**President** - Syracuse University Dean's Advisory Panel (2024-2025)
-
-- Led 9-member panel, managing 3 committees and executing weekly community outreach events, resulting in 40\% increase in student engagement and implementation of 5 new initiatives to enhance engineering student experience.
-- Gathered and presented student body concerns to the Dean of Engineering monthly, leading to the implementation of 2 new policies and 5 improvements in student organization resources, benefiting 90\% of engineering students.
-
-**Co-Sponsorship Chair** - CuseHacks/Innovate Orange (2023-2025)  
-
-- Spearheaded fundraising efforts for CuseHacks' bi-annual hackathon, securing \$7,500 through targeted corporate outreach and leveraging Notion to streamline agreement processes and deadline management.
-- Led weekly planning meetings with 20 e-board members, overseeing logistics for bi-annual hackathons and weekly workshops, resulting in 80\% increase in event attendance and 75\% improvement in participant satisfaction scores.
-
-**Event Lead** - Orange After Dark (2024-2025)
-
-- Led late-night programming events averaging 200+ attendees, improving student satisfaction by 30\% through strategic planning and effective resource management, resulting in 25\% increase in repeat attendance and led weekly meetings with 12 staff members, improving event preparation efficiency by 80\%.
-
 ## 📫 Let's Connect!
 
 <div align="center">
